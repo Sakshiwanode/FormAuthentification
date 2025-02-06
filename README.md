@@ -1,2 +1,2 @@
 # FormAuthentification
-login and registerartion form
+login and registration form
